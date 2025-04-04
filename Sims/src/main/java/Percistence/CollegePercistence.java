@@ -9,5 +9,5 @@ package Percistence;
  * @author HP
  */
 public class CollegePercistence {
-    
+    String name;
 }
